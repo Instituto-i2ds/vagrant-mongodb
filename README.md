@@ -12,7 +12,7 @@ This repository contains everything needed to build the bionic64-kind vagrant bo
 
 2.Clone this repo:
 ```
-$ git clone git@github.com:galvarado/vagrant-box-bionic64-kind.git
+$ git clone git@github.com:Instituto-i2ds/vagrant-mongodb.git
 ```
 
 ## How to use

@@ -10,11 +10,6 @@ This repository contains everything needed to build the bionic64-kind vagrant bo
 
 - Install [Vagrant](https://www.vagrantup.com/docs/installation) and [Virtualbox](https://www.vagrantup.com/docs/providers/virtualbox).
 
-2.Clone this repo:
-```
-$ git clone git@github.com:Instituto-i2ds/vagrant-mongodb.git
-```
-
 ## How to use
 
 You can use the base box like any other base box. 
